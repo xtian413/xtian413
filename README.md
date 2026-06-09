@@ -47,7 +47,7 @@ A fitness application designed to help users track workouts, food intake, hydrat
 
 ## 📫 Contact
 
-* GitHub: @your-username
+* GitHub: @xtian413
 * Email: [chris.gamos.13@gmail.com](mailto:chris.gamos.13@gmail.com)
 
 <!--
