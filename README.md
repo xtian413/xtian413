@@ -49,7 +49,7 @@ A fitness application designed to help users track workouts, food intake, hydrat
 ## 📫 Contact
 
 * GitHub: @your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [chris.gamos.13@gmail.com](mailto:chris.gamos.13@gmail.com)
 
 <!--
 **xtian413/xtian413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
