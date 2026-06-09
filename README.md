@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Christian 👋
 
 I am a Computer Science student interested in software development, mobile apps, and building practical projects.
