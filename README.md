@@ -1,66 +1,31 @@
 # Hi, I'm Christian 👋
 
-I am a Computer Science student interested in software development, mobile apps, and building practical projects.
+I am a Computer Science student focused on building practical web and mobile applications, with a strong interest in full-stack development and AI integration.
 
-## 🛠️ Tech Stack
+---
 
-### Languages
+### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+**Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### Frontend and Mobile
+**Mobile & Frontend**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+**Database & Tools**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
-### Backend and Database
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+### 🚀 Featured Project
 
-### Tools
+**Gemi Fitness App**
+A local-first mobile application designed to track workouts, nutrition, and hydration with integrated AI features.
+* **Stack:** React Native, Expo, TypeScript, Supabase, SQLite
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+---
 
-## 📌 Featured Project
+### 📬 Connect with Me
 
-### Gemi Fitness App
-
-A fitness application designed to help users track workouts, food intake, hydration, and progress. It includes local-first data storage and AI-related features.
-
-**Tech used:** React Native, Expo, TypeScript, Supabase, and SQLite.
-
-## 🌱 Currently Learning
-
-* JavaScript and TypeScript
-* Mobile app development
-* Backend development
-* Git and GitHub workflow
-* AI integration for applications
-
-## 📫 Contact
-
-* GitHub: @xtian413
-* Email: [chris.gamos.13@gmail.com](mailto:chris.gamos.13@gmail.com)
-
-<!--
-**xtian413/xtian413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📧 [chris.gamos.13@gmail.com](mailto:chris.gamos.13@gmail.com)
+* 🐙 [GitHub](https://github.com/xtian413)
